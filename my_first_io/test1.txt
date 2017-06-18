@@ -1,0 +1,3 @@
+this is a test
+if what i do is correct
+the result should be 2
